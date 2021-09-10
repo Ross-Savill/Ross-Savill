@@ -1,4 +1,4 @@
-## Hello There! My name is Ross, I'm a consitently developing developer and aspiring SDET currently working through my course with Sparta Global as a Trainee Java SDET.
+## Hello There! My name is Ross, I'm a consistently developing developer and aspiring SDET currently working through my course with Sparta Global as a Trainee Java SDET.
 
 ### I'm currently working on building my skills and understanding of various testing functionality with Java, Junit and Maven and am in the process of taking on-board new testing tools to push my skills further.
 
